@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+cssselect2==0.7.0
+DateTime==5.4
+debugpy==1.8.0
+idna==3.6
+pytz==2024.1
+requests==2.31.0
+soupsieve==2.5
+tinycss2==1.2.1
+tinydb==4.8.0
+urllib3==2.2.0
+webencodings==0.5.1
+zope.interface==6.1

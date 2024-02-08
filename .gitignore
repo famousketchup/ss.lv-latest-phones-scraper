@@ -1,0 +1,13 @@
+# Database(s)
+*.json
+
+# Dev tools
+.style.yapf
+.sourcery.yaml
+
+# Debugging requests
+tmp.html
+
+# Etc
+/.mypy_cache/
+/venv
